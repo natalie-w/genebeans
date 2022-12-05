@@ -1,0 +1,30 @@
+RSID,Gene,Type,Outcome,Link
+rs6591536 (G>A),OR5A1,Smell,"less sensitive to B-ionone, cedar wood",https://doi.org/10.1371/journal.pgen.1009564
+rs5020278 (G>A),OR7D4,Smell,"less sensitive to Androstenone, male pork",https://doi.org/10.1371/journal.pgen.1009565
+rs61729907 (G>A),OR7D4,Smell,"less sensitive to  Androstenone, male pork",https://doi.org/10.1371/journal.pgen.1009566
+rs1453542 (G>C),OR4D6,Smell,"less sensitive to Galaxolide, clean sweet musky floral woody odor",https://doi.org/10.1371/journal.pgen.1009567
+rs1453541 (T>C),OR4D6,Smell,"less sensitive to Galaxolide, clean sweet musky floral woody odor",https://doi.org/10.1371/journal.pgen.1009568
+rs10837814 (G>A),OR51B2,Smell,"more sensitive to 3M2H,  human underarm odor,",https://doi.org/10.1371/journal.pgen.1009569
+rs3749977 (G> A),OR213,Smell,"less sensitive to Cis-3hexen-1-ol, grassy-green odor of freshly cut green grass and leaves",https://doi.org/10.1371/journal.pgen.1009570
+rs28757581 (A>G),OR213,Smell,"less sensitive to Cis-3heyen-1-ol, grassy-green odor of freshly cut green grass and leaves",https://doi.org/10.1371/journal.pgen.1009571
+rs41286168 (A>G),TAAR5,Smell,"less sensitive to Trimethvlamine, strong body odor of rotting fish, rotting eggs, garbage, or urine",https://doi.org/10.1371/journal.pgen.1009572
+rs60683621 (C>G),OR6C70,Smell,more sensitive to Licorice,https://doi.org/10.1371/journal.pgen.1009573
+rs317787 (T>C),HBG2,Smell,less sensitive to Cinnamon,https://doi.org/10.1371/journal.pgen.1009574
+rs35393723 (G>A),OR10J5,Smell,"less sensitive to Bourgenol, fragrance reminiscent of lily of the valley",https://doi.org/10.1371/journal.pgen.1009575
+rs9257857 (C> T),OR11A1,Smell,"less sensitive to 2-ethyl fenchone, Powerful and diffusive ambery earthy odor and Fenchol, smell of pine, lemon, and camphor",https://doi.org/10.1371/journal.pgen.1009576
+rs116453035 (G>A),ORICI,Smell,"less sensitive to Linalool, lavender, bergomot, rosewood",https://doi.org/10.1371/journal.pgen.1009577
+rs35771565 (C>T),OR2W1,Smell,"more sensitive to caproic acid, odor that is fatty, cheesy, waxy, and like that of goats or other barnyard animals",https://doi.org/10.1371/journal.pgen.1009578
+rs869068021 (AC/A) deletion,OR2A5: 2kb Upstream Variant,Smell,"more sensitive to Citronella, lemongrass",https://doi.org/10.1371/journal.pgen.1009579
+rs41273491 (C> T),ORGy1,Smell,"less sensitive to Diacetyl, intensely buttery flavor",https://doi.org/10.1371/journal.pgen.1009580
+rs16840314 (G>A),ORGY1,Smell,"less sensitive to Diacetyl, intensely buttery flavor",https://doi.org/10.1371/journal.pgen.1009581
+rs59319753 (G> C),OR2A25,Smell,"more sensitive to Citronella, lemongrass",https://doi.org/10.1371/journal.pgen.1009582
+rs4936880 (A>G),OR10G4,Smell,"less sensitive to Guaiacol, celery seeds, tobacco leaves, orange leaves, and lemon peels",https://doi.org/10.1371/journal.pgen.1009583
+rs4936881 (A>C),OR10G4,Smell,"less sensitive to Guaiacol, celery seeds, tobacco leaves, orange leaves, and lemon peels",https://doi.org/10.1371/journal.pgen.1009584
+r5857685 (A>C),OR10Z1,Smell,"less sensitive to Diacetvl, intense buttery flavor",https://doi.org/10.1371/journal.pgen.1009585
+rs2074466 (C>A),OR10C1,Smell,"less sensitive to 2-ethyl fenchol, Powerful and diffusive ambery earthy odor",https://doi.org/10.1371/journal.pgen.1009586
+rs10187574 (A>G),OR6B2,Smell,"less sensitive to Isobutyraldehyde, smell of wet cereal or straw",https://doi.org/10.1371/journal.pgen.1009587
+chr11: 55761081 (TA>T),OR5F1: 500b Downstream Variant,Smell,less sensitive to orange,https://doi.org/10.1371/journal.pgen.1009588
+rs7931189 (A>T),OR8A1: 3 Prime UTR Variant,Smell,more sensitive to paraffin oil,https://doi.org/10.1371/journal.pgen.1009589
+rs41273491 (C>T),OR6Y1,Smell,"more sensitive to 2-butanone, sharp, sweet odor reminiscent of acetone",https://doi.org/10.1371/journal.pgen.1009590
+rs4936882 (T>G),OR10G4,Smell,"less sensitive to Guaiacol, celery seeds, tobacco leaves, orange leaves, and lemon peels",https://doi.org/10.1371/journal.pgen.1009591
+rs4481887 (G> A),OR2M7: 9kb 5' of OR2M7,Smell,more sensitive to Asparagus Urine,https://doi.org/10.1371/journal.pgen.1009592

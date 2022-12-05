@@ -1,0 +1,96 @@
+RSID,Gene,Type,Outcome,Link
+rs26125,PPARGC1B,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537265
+rs16867467,NEUROD1,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537266
+rs3924313,SCARB1,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537267
+rs4299376,ABCG8,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537268
+rs1800629,TNF,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537269
+rs4759277,LRP1,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537270
+rs3802885,ABCG4,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537271
+rs2242104,VLDLR,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537272
+rs1761667,CD36,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537273
+rs1668033 ,ABCG4,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537274
+rs4759277,LRP1,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537275
+rs3802885,ABCG4,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537276
+rs670,APOA1,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537277
+rs693,APOB,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537278
+rs1057613,MTP,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537279
+rs290481,TCF7L2,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537280
+rs12221497 ,NR1H3,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537281
+rs6531,RXRB,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537282
+rs12691,CEBPA,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537283
+rs16967952,CEBPA,metabolism,increased carbohydrate metabolism,https://academic.oup.com/jcem/article/99/2/E384/2537284
+rs762551,CYP1A2,caffeine metabolism,greater caffeine induced anxiety,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242593/
+rs35694136,CYP1A3,caffeine metabolism,greater caffeine induced anxiety,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242593/
+rs5751876,ADORA2A,caffeine metabolism,greater caffeine induced anxiety,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242593/
+rs35320474,ADORA2A,caffeine metabolism,greater caffeine induced anxiety,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242593/
+rs1110976,DRD2,caffeine metabolism,greater caffeine induced anxiety,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242593/
+rs1229984,ADH1B,alcohol metabolism,more prone to drunk,https://doi.org/10.1080/20961790.2018.1468538
+rs698,ADH1C,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468539
+rs671,ALDH2,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468540
+rs2031920,CYP2E1*5B,alcohol metabolism,more prone to drunk,https://doi.org/10.1080/20961790.2018.1468541
+rs279858,GABRA2,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468542
+rs1799971,OPRM1,alcohol metabolism,more prone to drunk,https://doi.org/10.1080/20961790.2018.1468543
+rs1051730,CHRNA3,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468544
+rs8034191,HYKK,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468545
+rs1042173,SLC6A4,alcohol metabolism,less prone to drunk,https://doi.org/10.1080/20961790.2018.1468546
+rs2277675,TRPV1,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804439
+rs74441350,TRPV2,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804440
+rs161383,TRPV3,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804441
+rs79821076,TRPV4,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804442
+rs161385,TRPV5,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804443
+rs3837858,TRPV6,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804444
+rs56095209,TRPV7,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804445
+rs222749,TRPV8,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804446
+rs117112057,TRPV9,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804447
+rs222748,TRPV10,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804448
+rs3216758,TRPV11,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804449
+rs222747,TRPV12,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804450
+rs12936340,TRPV13,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804451
+rs7220415,TRPV14,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804452
+rs520671,TRPV15,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804453
+rs74389246,TRPV16,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804454
+rs3744686,TRPV17,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804455
+rs161394,TRPV18,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804456
+rs224534,TRPV19,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804457
+rs161365,TRPV20,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804458
+rs57716901,TRPV21,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804459
+rs61387317,TRPV22,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804460
+rs2277679,TRPV23,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804461
+rs8065080,TRPV24,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804462
+rs8078936,TRPV25,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804463
+rs375458057,TRPV26,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804464
+rs113287435,TRPV27,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804465
+rs71153373,TRPV28,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804466
+rs57405156,TRPV29,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804467
+rs877611,TRPV30,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804468
+rs224547,TRPV31,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804469
+rs1018658001,TRPV32,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804470
+rs3826503,TRPV33,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804471
+rs4790523,TRPV34,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804472
+rs4790522,TRPV35,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804473
+rs4790521,TRPV36,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804474
+rs150895493,TRPV37,spice sensitivity,burning pain and capsaicin sensitivity,https://journals.sagepub.com/doi/10.1177/1744806918804475
+rs4988235,MCM6,lactose sensitivity,prevent lactose intolerance,https://pubmed.ncbi.nlm.nih.gov/22826639/
+ rs182549,MCM6,lactose sensitivity,prevent lactose intolerance,https://pubmed.ncbi.nlm.nih.gov/22826639/
+rs145946881,MCM6,lactose sensitivity,prevent lactose intolerance,https://pubmed.ncbi.nlm.nih.gov/22826639/
+rs41380347,MCM6,lactose sensitivity,prevent lactose intolerance,https://pubmed.ncbi.nlm.nih.gov/22826639/
+ rs41525747,MCM6,lactose sensitivity,prevent lactose intolerance,https://pubmed.ncbi.nlm.nih.gov/22826639/
+rs2282679,GC,vitamin D,lower vitamin D levels,https://pubmed.ncbi.nlm.nih.gov/22826639/
+rs12785878,NADSYN1,vitamin D,lower vitamin D levels,
+rs10741657,CYP2R1,vitamin D,lower vitamin D levels,
+rs6013897,,vitamin D,lower vitamin D levels,
+rs117913124,CYP2R1,vitamin D,significantly lower vitamin D levels,
+rs1799945,HFE,iron,low iron level,
+rs1799899,TF,iron ,low iron level,
+rs3811647,TF,iron,low iron level,
+rs1799852,TF,lipid,increased fatty acid level,
+rs4846914,GALNT2,lipid,increased fatty acid level,
+rs17145738,TBL2/MLXIPL,lipid,increased fatty acid level,
+rs17321515,TRIB1,lipid,increased fatty acid level,
+rs12130333,"ANGPTL3, LEPR",lipid,increased fatty acid level,
+rs780094 ,GCKR,lipid,increased fatty acid level,
+rs3135506 ,APOA5,lipid,increased fatty acid level,
+rs662799 ,APOA5,lipid,increased fatty acid level,
+rs328,LPL,lipid,increased fatty acid level,
+rs1260326,GCKR,lipid,increased fatty acid level,
+rs7412,APOE,,,

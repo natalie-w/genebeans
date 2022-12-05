@@ -1,0 +1,93 @@
+RSID,Gene,Type,Outcome,Link
+rs12137730,TAS1R2,Taste,Preference for sweet,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2499729,GRM4,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs3778045,GRM4,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs4908563,TAS1R1,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs11759763,GRM4,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2451328,GRM5,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2451361,GRM6,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2499682,GRM7,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2499729,GRM8,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs7772932,GRM9,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs937039,GRM10,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs9380406,GRM11,Taste,Preference for umami,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs150908,TRPV1,Taste,Preference for salty,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs161386,TRPV2,Taste,Preference for salty,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs222745,TRPV3,Taste,Preference for salty,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs150908,TRPV4,Taste,Preference for salty,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs2301151,GPR40,Taste,Preference for fat,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs3211816	,CD36,Taste,Preference for fat,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs236512,KCNJ2,Taste,Preference for sour,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs236514,KCNJ2,Taste,Preference for sour,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs376184,ASIC1,Taste,Preference for sour,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs643637,KCNJ2,Taste,Preference for sour,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs713598,TAS2R38,Food,Aversion of bitter vegetables,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs713599,TAS2R39,Food,Preference for sweet vegetables,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6115723/
+rs72921001,OR6A2,Food,Aversion of cilantro (tastes soapy),https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs9276975,HLA-DOA,Food,White wine,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs28849980,CCRN4L,Food,Artichokes,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs28849980,ADAMTS19-CHSY3,Food,Artichokes,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs8034691,LOC100128714,Food,Artichokes,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs2530184,NA,Food,Broccoli,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs9832668,RYBP,Food,Broccoli,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs138369603,CSMD1,Food,Broccoli,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs140738262,CNTN5,Food,Bacon,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs6661761,BPNT1,Food,Oil or Butter on Bread,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs12994253,KCMF1-TCF7L1,Food,Blue Cheese,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs2035613,IRX4,Food,Ice Cream,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs34088951,RNU6-66,Food,Liver,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs145671205,FIBIN,Food,Coffee,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6722914/
+rs713598,TAS2R38,Food,aversion of wine/alcohol,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs713598,TAS2R38,Food,aversion of bitter vegetables,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs713598,TAS2R38,Food,aversion of bitter berry juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1726866,TAS2R38,Food,aversion of wine/alcohol,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1726866,TAS2R38,Food,aversion of bitter vegetables,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10246939,TAS2R38,Food,aversion of wine/alcohol,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10246939,TAS2R38,Food,aversion of bitter berry juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10246939,TAS2R38,Food,aversion of bitter vegetables,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10246939,TAS2R38,Food,aversion of bitter berry juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10772420,TAS2R19,Food,aversion of unsweetened grapefruit juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10772420,TAS2R19,Food,aversion of quinine in tonic water,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1868769,TAS2R19,Food,aversion of quinine in tonic water,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10845293,TAS2R31 (formerly TAS2R44),Food,aversion of quinine in tonic water,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10772423,TAS2R31 (formerly TAS2R44),Food,aversion of quinine in tonic water,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10772423,TAS2R31 (formerly TAS2R44),Food,preference to unsweetened grapefruit juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs2234001,TAS2R4,Food,aversion of unsweetened grapefruit juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs2227264,TAS2R5,Food,aversion of unsweetened grapefruit juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs2234012,TAS2R5,Food,aversion of unsweetened grapefruit juice,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs3741845,TAS2R9,Food,aversion of wine/alcohol,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs3741845,TAS2R9,Food,aversion of spice bitterness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs2274333,CA6,Food,aversion of bitter vegetables,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1761667,CD36,Taste,preference for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1761667,CD36,Taste,preference for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1527483,CD36,Taste,preference for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs838145,IZUMO1,Taste,aversion for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs307377,TAS1R3,Taste,less sensitivity for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs76755863,TAS1R3,Taste,less sensitivity for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs111615792,TAS1R3,Taste,preference for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs34160967,TAS1R1,Taste,preference for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs41278020,TAS1R1,Taste,less sensitivity for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs35118458,TAS1R1,Taste,less sensitivity for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs2814863,GRM1,Taste,less sensitivity for umami,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs17492553,TAS1R1,Taste,less sensitivity for sourness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs34160967,TAS1R1,Taste,less sensitivity for sourness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+"A49P (rs713598), A262V (rs1726866), V296I (rs10246939)",TAS2R38,Taste,less sensitivity for sourness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+"A49P (rs713598), A262V (rs1726866), V296I (rs10246939)",TAS2R38,Food,higher sensitivity for berry juice sample sourness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs6466849,NA,Food,higher sensitivity for wine sourness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs3935570,TAS1R2,Taste,higher sensitvity for sweetness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs12033832,TAS1R2,Taste,higher sensitvity for sweetness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs35874116,TAS1R2,Taste,preference for sweet foods,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs307355,TAS1R3,Food,less sensitivity to sucrose,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs35744813,TAS1R3,Food,less sensitivity to sucrose,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs713598,TAS2R38,Food,preference for sweet foods,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs713598,TAS2R38,Food,preference for sweet foods,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs1726866,TAS2R38,Taste,higher sensitivity for sucrose,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs10246939,TAS2R38,Taste,higher sensitivity for sucrose,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+"A49P (rs713598), A262V (rs1726866), V296I (rs10246939)",TAS2R38,Taste,preference for sweet foods,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+"A49P (rs713598), A262V (rs1726866), V296I (rs10246939)",TAS2R38,Taste,preference for sweet foods,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs8065080,TRPV1,Taste,less sensitivity for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs239345,SCNN1B,Taste,less sensitivity for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs3785368,SCNN1B,Taste,less sensitivity for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs17492553,TAS1R1,Taste,less sensitivity for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+rs34160967,TAS1R1,Taste,less sensitivity for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
+"A49P (rs713598), A262V (rs1726866), V296I (rs10246939)",TAS2R38,Taste,preference for saltiness,https://www.frontiersin.org/articles/10.3389/fgene.2019.01272/full
